@@ -1,0 +1,115 @@
+@charset "UTF-8";
+
+body {
+	background: linear-gradient(135deg, #b5f3f5, #e889cc, transparent);
+}
+
+.addlink {
+	position: relative;
+	top: 25px;
+	left: 25px;
+	color: #1024a3;
+	font-size: 1.3rem;
+	font-family: serif;
+	font-weight: bold;
+	font-style: italic;
+	cursor: pointer;
+	text-decoration: none;
+	opacity: 0.8;
+	}
+.listlink {
+	margin-left: 35px;
+	position: relative;
+	top: 25px;
+	left: 15px;
+	color: #1024a3;
+	font-size: 1.3rem;
+	font-family: serif;
+	font-weight: bold;
+	font-style: italic;
+	cursor: pointer;
+	opacity: 0.8;
+	text-decoration: none;
+}	
+
+h3 {
+	position: relative;
+	top: 15px;
+	left: 50px;
+	font-size: 1.6rem;
+    font-family: Georgia, serif;
+	color: #8000ff;
+	background: linear-gradient(135px, #fc68ee, #edcf7e, transparent);
+	font-style: italic;
+	display: inline-block; 
+	height: 18px    
+	font-weight: bolder;	
+}
+
+a:hover {
+	color: #004080;
+	box-shadow: 3px 4px 5px #dd3ccd;
+	font-size: 1.4rem;
+	transition-duration: .3s;
+	transition-timing-function: ease-in-out;
+	opacity: 1;
+	
+}
+
+pre {
+	position: relative;
+	top: 19px;
+	left: 107px;
+	color: mediumvioletred;
+	font-size: 1.25rem;
+	font-weight: bolder;
+	font-family: "Crimson Text", serif;
+	font-style: italic;	
+}
+
+.file {
+	padding: 5.5px 32px 5.5px 32px;
+    border-radius: 13px;
+    border: 1px solid deepskyblue;
+    border-spacing: 125px 431px !important;
+    background: linear-gradient(135deg, #a7d1cd, #e889ca, transparent);
+    color: #0e09ad;
+    text-size: 1.2rem;
+    font-weight: bolder;
+    font-style: italic;
+}
+	
+	.button {
+	color: #080a96;
+	padding: 5px 16px 5px 16px;
+    font-size: 1rem;
+    font-weight: bolder;
+    border-radius: 20px;
+    font-style: italic;
+    background: linear-gradient(45deg, blue, red, transparent);
+    border: none;
+    opacity: 0.7;
+    cursor: pointer;
+	}
+	
+	
+	.button:hover {
+	opacity: 1;
+	color: #040680;
+	background: linear-gradient(120deg, #cc0c39, #b3a70b, transparent);
+	box-shadow: 2px -2px 3px 4px red;
+	transition-duration: .3s;
+	transition-timing-function: ease-in-out;
+	opacity: 1;
+	}
+	}
+
+
+
+
+
+
+
+
+
+
